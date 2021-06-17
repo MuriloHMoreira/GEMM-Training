@@ -12,7 +12,7 @@ O GitHub é um site de hospedagem de repositórios. Neles arquivos como códigos
 Para mais detalhes [acesse aqui](https://tecnoblog.net/400821/como-usar-o-github-guia-para-iniciantes/).
 
 # Interface Gráfica para controle de versões
-Uma forma de tornar tudo menos abstrato é usar um programa de interface gráfica ao invés das linhas de comando. Um excelente exemplo é o [GitKraken](https://support.gitkraken.com/start-here/guide/) -  para instalar clique [aqui](https://support.gitkraken.com/how-to-install/). Sugeri esse programa uma vez que não está restrito a funcionar apenas com GitHub (funciona com outros "hubs" como o Gitlab) ao contrário do o programa próprio [GitHub Desktop](https://desktop.github.com/).
+Uma forma de tornar tudo menos abstrato é usar um programa de interface gráfica ao invés das linhas de comando. Um excelente exemplo é o [GitKraken](https://support.gitkraken.com/start-here/guide/) -  para instalar clique [aqui](https://support.gitkraken.com/how-to-install/). Sugeri esse programa uma vez que não está restrito a funcionar apenas com GitHub (funciona com outros "git" como o Gitlab) ao contrário do o programa próprio [GitHub Desktop](https://desktop.github.com/).
 
 # Links interessantes
 [Introdução a Computação dada na oficina do OpenLabs 2018](https://github.com/MuriloHMoreira/Open-Labs---GEMM---CDM)
